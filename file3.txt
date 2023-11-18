@@ -1,3 +1,4 @@
 add new detail
 bug fix forgetPassword
+edit on feature branch
 edit on brach master
